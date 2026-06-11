@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="120" viewBox="0 0 480 120" role="img">
+  <title>Reach Mark Agency — Territory Mark Logo (Light Version)</title>
+  <desc>Reach Mark Agency logo on white background for print and light backgrounds</desc>
+
+  <!-- White background -->
+  <rect width="480" height="120" fill="#FFFFFF"/>
+
+  <!-- ICON MARK -->
+  <path d="M 18 60 A 42 42 0 1 1 68 95" fill="none" stroke="#FF5500" stroke-width="3.5" stroke-linecap="round"/>
+  <polyline points="60,107 72,96 60,85" fill="none" stroke="#FF5500" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="60" cy="60" r="7" fill="#FFD200" stroke="#FF5500" stroke-width="1"/>
+  <line x1="60" y1="38" x2="60" y2="48" stroke="#333" stroke-width="1.5" stroke-linecap="round" opacity="0.25"/>
+  <line x1="38" y1="60" x2="48" y2="60" stroke="#333" stroke-width="1.5" stroke-linecap="round" opacity="0.25"/>
+  <line x1="72" y1="60" x2="82" y2="60" stroke="#333" stroke-width="1.5" stroke-linecap="round" opacity="0.25"/>
+
+  <!-- WORDMARK dark -->
+  <text x="108" y="55"
+    font-family="'Cormorant Garamond', Georgia, 'Times New Roman', serif"
+    font-size="36"
+    font-weight="300"
+    letter-spacing="0.13em"
+    fill="#080808">REACH MARK</text>
+
+  <text x="110" y="76"
+    font-family="'Courier New', Courier, monospace"
+    font-size="10"
+    letter-spacing="0.28em"
+    fill="#888888">AGENCY  ·  EST. 2024</text>
+
+  <rect x="110" y="83" width="32" height="1.5" fill="#FF5500"/>
+  <rect x="148" y="83" width="10" height="1.5" fill="#FFD200"/>
+
+  <text x="110" y="101"
+    font-family="'Courier New', Courier, monospace"
+    font-size="10"
+    letter-spacing="0.18em"
+    fill="#999999">MARK YOUR TERRITORY ONLINE</text>
+
+</svg>

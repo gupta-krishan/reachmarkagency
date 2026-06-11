@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img">
+  <title>Reach Mark Agency Icon</title>
+  <desc>Reach Mark Agency app icon — open arc with arrow and yellow center dot on dark background</desc>
+
+  <!-- Dark rounded square background -->
+  <rect width="512" height="512" rx="100" fill="#080808"/>
+
+  <!-- Outer arc — open, suggesting infinite reach -->
+  <path d="M 80 256 A 176 176 0 1 1 340 408" fill="none" stroke="#FF5500" stroke-width="28" stroke-linecap="round"/>
+
+  <!-- Arrow tip at arc end -->
+  <polyline points="308,432 344,408 320,374" fill="none" stroke="#FF5500" stroke-width="24" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Center yellow dot = the mark -->
+  <circle cx="256" cy="256" r="36" fill="#FFD200"/>
+
+  <!-- Crosshair lines -->
+  <line x1="256" y1="148" x2="256" y2="196" stroke="#F2F0EB" stroke-width="10" stroke-linecap="round" opacity="0.3"/>
+  <line x1="148" y1="256" x2="196" y2="256" stroke="#F2F0EB" stroke-width="10" stroke-linecap="round" opacity="0.3"/>
+  <line x1="316" y1="256" x2="364" y2="256" stroke="#F2F0EB" stroke-width="10" stroke-linecap="round" opacity="0.3"/>
+
+</svg>
